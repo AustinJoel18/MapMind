@@ -7,6 +7,7 @@ CREATE TABLE users (
 );
 
 CREATE TABLE world_countries (
+  id SERIAL PRIMARY KEY,
   country_code CHAR(2) PRIMARY KEY,
   country_name VARCHAR(50) NOT NULL
 );

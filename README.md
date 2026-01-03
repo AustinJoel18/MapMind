@@ -156,7 +156,3 @@ You can add or remove users from the UI.
 * Cascade delete on user removal
 
 ---
-
-
-Just tell me 👍
-```
